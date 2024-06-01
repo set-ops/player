@@ -15,3 +15,6 @@ It's a simple setup. Any set member knows that an Actor can't (and doesn't want 
 
 ## Offline mode
 Even though the Remote Control VS Prop Player interactions are reliant on a connection, the player can effortlessly fall back to an offline auto-play mode and run any scene that has be synced before.
+
+## Contact
+If you have any other questions, contact us on [hello@set-ops.com](mailto:hello@set-ops.com)!
