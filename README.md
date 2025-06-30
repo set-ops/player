@@ -4,9 +4,8 @@ Welcome to our community! This is the perfect place to ask us questions, report 
 ## Install
 Digital props come in all ages. For this, the Player app is lightweight and can be installed on devices as old as the iPhone 7 and iPhone SE 2020. And also on many flavours of Android.
 
-Today, the app is released in a controlled environment. Once published, you will be able to purchase the Props Player in the Apple and Google app stores.
-
-Subscribe to stay informed about the release and early access opportunities!
+Download the app in the Apple Appstore, or request us a direct link to the Android app install file.
+Follow our [set-ops.com/getting-started](https://set-ops.com/getting-started/) quick guide to get started
 
 ## Actors
 The player and its host phone are approached as how it's intended: an extension of the character, played by an actor.
